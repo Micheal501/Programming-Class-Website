@@ -1,0 +1,36 @@
+body {
+    background-color: #3b3b3b;
+}
+
+.navbar-toggler {
+    background-color: #fff;   
+}
+
+.navbar {
+    padding: 1rem;
+}
+
+.nav-item,
+.navbar-brand
+{
+    font-size: 1.4rem;
+}
+
+.d-block {
+    height: 90vh;
+}
+
+.caraousel-inner {
+    height: 60vh;
+}
+
+.container {
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.card-img-top {
+    padding: 1rem;
+}
